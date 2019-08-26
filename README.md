@@ -1,6 +1,7 @@
 # Pytorch-implementation-of-Encoder-Based-Lifelong-learning
 
 The code contains a demo demonstrating running EBLL on a sequence of two tasks:
+
 1- You need first to have alexNet model trained on one dataset (Task 1) say scenes.
 
 2- The autoencoder should be trained on the data from the first task using that first task data.
